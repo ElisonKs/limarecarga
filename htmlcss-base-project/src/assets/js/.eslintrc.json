@@ -1,0 +1,12 @@
+{
+  "root": true,
+  "env": {
+      "browser": true,
+      "es6": true,
+      "jquery": true
+  },
+  "extends": ["jquery"],
+  "rules": {
+    "linebreak-style": [2, "windows"]
+  }
+}

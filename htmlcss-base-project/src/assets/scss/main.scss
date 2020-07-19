@@ -1,0 +1,23 @@
+// 7-1 pattern
+
+// Abstratcts or Utilities
+@import 'abstracts/**/*';
+
+// Vendors
+@import 'sass-rem/rem';
+@import 'vendors/**/*';
+
+// Base
+@import 'base/**/*';
+
+// Layout or Partials
+@import 'layout/**/*';
+
+// Components or Modules
+@import 'components/**/*';
+
+// Pages
+@import 'pages/**/*';
+
+// Themes
+@import 'themes/**/*';

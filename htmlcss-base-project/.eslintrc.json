@@ -1,0 +1,10 @@
+{
+  "env": {
+      "browser": true,
+      "es6": true
+  },
+  "extends": [ "google" ],
+  "rules": {
+    "linebreak-style": [2, "windows"]
+  }
+}
