@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": "^3.2.1"
+    "jquery": "^3.5.0"
   },
   "browserslist": [
     "last 2 versions"
