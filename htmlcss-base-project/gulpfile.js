@@ -50,7 +50,7 @@ task('styles', function() {
 task('images', function() {
   return src('src/assets/img/**/*.{jpg,jpeg,png,svg,gif}')
       .pipe(imagemin())
-      .pipe(dest('build/img'));
+      .pipe(dest('build/assets/img'));
 });
 
 task('vendor', function() {
