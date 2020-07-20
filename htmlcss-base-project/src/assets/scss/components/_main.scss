@@ -8,6 +8,10 @@
     background-size: cover;
     background-repeat: no-repeat;
 
+    @media(max-width:768px){
+    background-position-y: 60px ;
+    }
+
     &__header{
     
        

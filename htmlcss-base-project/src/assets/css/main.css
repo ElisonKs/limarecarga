@@ -8254,6 +8254,9 @@ a.text-dark:hover, a.text-dark:focus {
   background-position-y: -320px;
   background-size: cover;
   background-repeat: no-repeat; }
+  @media (max-width: 768px) {
+    .main {
+      background-position-y: 60px; } }
   .main__header {
     padding: 10px; }
     @media (max-width: 768px) {
